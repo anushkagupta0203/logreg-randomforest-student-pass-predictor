@@ -63,22 +63,10 @@ A classification-based machine learning project demonstrating the use of basic M
 
 ## 🗂️ Resources
 
-- 📄 `GeeksforGeeks_Content.ipynb` – The complete notebook with code and outputs
-- 📚 Dataset Source: [Add Dataset Link Here]
-
----
-
-## 📈 Activity
-
-- ⭐ Stars: `0`  
-- 👁️ Watchers: `1`  
-- 🍴 Forks: `0`  
-- 🚀 Languages: `100% Jupyter Notebook`
+- 📚 Dataset Source: https://www.kaggle.com/datasets/spscientist/students-performance-in-exams
 
 ---
 
 ## 📬 Get in Touch
 
-If you have feedback or questions, feel free to reach out or connect on [LinkedIn](https://linkedin.com/in/your-profile).
-
-
+If you have feedback or questions, feel free to reach out or connect on [LinkedIn](www.linkedin.com/in/anushkagupta23).
